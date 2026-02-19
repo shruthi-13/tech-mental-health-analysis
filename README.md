@@ -71,13 +71,10 @@ Identify factors influencing whether a tech professional develops mental health 
 ```python
 {'criterion': 'entropy', 'max_depth': 5, 'max_features': None,
  'min_samples_leaf': 4, 'min_samples_split': 2}
-
+```
 Best Cross-Validated Accuracy: 0.814
 ---
 
-### **Part 8: Visualizations**
-
-```markdown
 ## Visualizations
 - Confusion matrices for classification models  
 - Decision Tree visualizations showing feature splits and feature importance
@@ -114,5 +111,5 @@ You can download the data from the following public sources:
 - **Kaggle (2014 version):** https://www.kaggle.com/osmihelp/osmi-mental-health-in-tech-survey  
 - **Mendeley Data (2017–2021 compiled version):** https://data.mendeley.com/datasets/mmnzx4w8cg/1
 
-> Note: A free account may be required to download data from Kaggle.
+
 
