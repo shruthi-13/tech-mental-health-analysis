@@ -102,7 +102,7 @@ Mental-Health-Tech/
 Clone the repository:
 ```bash
 git clone https://github.com/shruthi-13/shruthi-13.git
-
+```
 ## Dataset
 
 This project uses the **OSMI Mental Health in Tech Survey** dataset, which contains survey responses from tech professionals about mental health.  
