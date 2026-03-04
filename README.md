@@ -31,7 +31,8 @@ Identify factors influencing whether a tech professional develops mental health 
 
 ## Dataset
 **Source:** OSMI Mental Health in Tech Survey  
-**Description:** Survey of tech professionals including demographic, workplace, and mental health-related information.  
+**Description:** Survey of tech professionals including demographic, workplace, and mental health-related information. 
+**No. of Records:**1260 
 **Columns Include:**  
 `Age, Gender, family_history, treatment, work_interfere, no_employees, remote_work, tech_company, benefits, care_options, wellness_program, seek_help, anonymity, leave, mental_health_consequence, phys_health_consequence, coworkers, supervisor, mental_health_interview, phys_health_interview, mental_vs_physical, obs_consequence, comments`
 
